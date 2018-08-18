@@ -1,4 +1,4 @@
-theme = "Massively"
+theme = "../.."
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
