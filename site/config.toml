@@ -1,9 +1,10 @@
+theme = "Massively"
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "My new Victor-Hugo site"
+title = "Positivity byRayRay"
 
 # RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
+# See configuration options for more details:
 # https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+# disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
