@@ -1,6 +1,10 @@
 {{ define "main" -}}
   <section class="hero">
-    <h1 class="hero__title">{{ .Site.Title }}</h1>
+    <img src="images/logo-by-rayray–transparant-white.png" class="hero__logo" alt="">
+    <section class="hero__tagline">
+        <h1 class="hero__title">{{ .Site.Title }}</h1>
+        <p class="hero__tagline">Be positive, whole day long!</p>
+    </section>
   </section>
   <div class="posts">
     {{ range .Data.Pages -}}

@@ -1,6 +1,9 @@
 .header--main {
     width: 100vw;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr 40px 1fr;
+    padding: 0 2rem;
+}
+.header__nav {
+    height: 50px;
 }

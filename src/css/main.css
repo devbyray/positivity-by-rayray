@@ -1,6 +1,9 @@
+/* CSS Reset */
 @import "normalize-css/normalize";
 
 @import "./partials/_base";
 @import "./partials/_header";
 @import "./partials/_hero";
 @import "./partials/_posts";
+@import "./partials/_logo";
+@import "./partials/_nav";

@@ -1,19 +1,29 @@
 <header class="header--main">
-  <ul class="sidebar-nav">
-    <li><a href="{{ .Site.BaseURL }}">Home</a> </li>
-    {{ range .Site.Menus.main -}}
-      <li><a href="{{.URL}}"> {{ .Name }} </a></li>
-    {{- end }}
-  </ul>
+  <nav class="header__nav">
+    <ul class="nav__list">
+        <li class="nav__item">
+          <a class="nav__link" href="{{ .Site.BaseURL }}">Home</a>
+        </li>
+        <li class="nav__item">
+          <a class="nav__link" href="{{ .Site.BaseURL }}">About</a>
+        </li>
+        {{ range .Site.Menus.main -}}
+          <li class="nav__item">
+            <a class="nav__link" href="{{.URL}}"> {{ .Name }} </a>
+          </li>
+        {{- end }}
+      </ul>
+  </nav>
   <span class="logo">
-    <a href="{{ .Site.BaseURL }}"><strong>{{ .Site.Title }}</strong></a>
+    <a href="{{ .Site.BaseURL }}"><img class="logo__image" src="images/logo-by-rayray-mark.png" alt=""></a>
   </span>
 
-  <ul class="sidebar-nav">
+  <!-- <ul class="sidebar-nav">
     <li><a href="{{ .Site.BaseURL }}">Home</a> </li>
     {{ range .Site.Menus.main -}}
       <li><a href="{{.URL}}"> {{ .Name }} </a></li>
     {{- end }}
-  </ul>
+  </ul> -->
+  <span class="empty"></span>
 
 </header>

@@ -1,13 +1,14 @@
 .posts {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
-    grid-column: 4;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    padding: 0 2rem;
     grid-gap: 2rem;
     height: auto;
     overflow: auto;
 }
 .post {
     margin-bottom: 1rem;
+    height: calc(100vh - 82px);
 }
 .post__image {
     max-width: 100%;
