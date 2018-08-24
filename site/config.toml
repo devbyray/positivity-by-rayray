@@ -1,4 +1,3 @@
-theme = "../.."
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
@@ -7,4 +6,4 @@ title = "Positivity byRayRay"
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details:
 # https://gohugo.io/getting-started/configuration/#toml-configuration
-# disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]

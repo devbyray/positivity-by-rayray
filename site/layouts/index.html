@@ -1,0 +1,21 @@
+{{ define "main" -}}
+  <section class="hero">
+    <h1 class="hero__title">{{ .Site.Title }}</h1>
+  </section>
+  <div class="posts">
+    {{ range .Data.Pages -}}
+    <div class="post">
+      <img class="post__image" src="{{ .Params.image }}" alt="">
+      <!-- <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span> -->
+      <h2 class="post__title">
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </h2>
+      {{ .Summary }} {{ if .Truncated }}
+      <div class="read-more-link">
+        <a href="{{ .RelPermalink }}">Read More…</a>
+      </div>
+      {{ end }}
+    </div>
+    {{- end }}
+  </div>
+{{- end }}

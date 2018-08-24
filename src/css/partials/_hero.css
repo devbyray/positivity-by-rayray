@@ -1,0 +1,13 @@
+.hero {
+    grid-column: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #131313;
+    color: #ffffff;
+    max-height: calc(100vh - 82px);
+}
+
+.hero__title {
+    margin: 0 0 0 0;
+}

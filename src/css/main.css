@@ -1,14 +1,6 @@
-/*
-  You can use import statements to include partials:
- */
-@import "imports/reset.css";
+@import "normalize-css/normalize";
 
-
-/*
-  Or add your statements here:
- */
-body{
-  font-family: sans-serif;
-  font-size: 1em;
-  text-align: center;
-}
+@import "./partials/_base";
+@import "./partials/_header";
+@import "./partials/_hero";
+@import "./partials/_posts";

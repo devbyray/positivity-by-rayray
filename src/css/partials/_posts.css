@@ -1,0 +1,17 @@
+.posts {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    grid-column: 4;
+    grid-gap: 2rem;
+    height: auto;
+    overflow: auto;
+}
+.post {
+    margin-bottom: 1rem;
+}
+.post__image {
+    max-width: 100%;
+}
+.post__title {
+    margin: 0 0 0 0;
+}

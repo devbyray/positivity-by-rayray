@@ -1,12 +1,12 @@
+import BrowserSync from "browser-sync";
+import { spawn } from "child_process";
 import gulp from "gulp";
-import {spawn} from "child_process";
-import hugoBin from "hugo-bin";
-import gutil from "gulp-util";
 import flatten from "gulp-flatten";
 import postcss from "gulp-postcss";
-import cssImport from "postcss-import";
+import gutil from "gulp-util";
+import hugoBin from "hugo-bin";
 import cssnext from "postcss-cssnext";
-import BrowserSync from "browser-sync";
+import cssImport from "postcss-import";
 import webpack from "webpack";
 import webpackConfig from "./webpack.conf";
 
@@ -30,7 +30,7 @@ gulp.task("build-preview", ["css", "js", "fonts"], (cb) => buildSite(cb, hugoArg
 
 // Compile CSS with PostCSS
 gulp.task("css", () => (
-  gulp.src("./src/css/*.css")
+  gulp.src("./src/css/**/*.css")
     .pipe(postcss([cssImport({from: "./src/css/main.css"}), cssnext()]))
     .pipe(gulp.dest("./dist/css"))
     .pipe(browserSync.stream())
