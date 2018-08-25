@@ -13,6 +13,10 @@ body {
   grid-template-rows: 50px 1fr 32px;
   grid-template-columns: 1fr;
 }
+.content__container {
+  background: #333333;
+  padding-bottom: 2rem
+}
 
 body,
 a {

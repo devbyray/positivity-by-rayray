@@ -1,16 +1,16 @@
 ---
-title: 5 tips to grow in anything
+title: 3 tips to grow in
 author: RayRay
 type: post
 date: 2018-08-09T08:32:08+00:00
-url: /5-tips-to-grow-anything/
-image: http://res.cloudinary.com/raymons/image/upload/c_scale,h_567,w_850/v1535201277/byrayray/pietro-de-grandi-329892-unsplash.webp
+url: /3-tips-to-grow/
+image: http://res.cloudinary.com/raymons/image/upload/c_scale,h_637,w_850/v1535204552/byrayray/max-van-den-oetelaar-789616-unsplash.webp
 draft: false
 categories:
   - Grow
 ---
 
-Today I will give you 5 tips, that I have learned, in order to learn new things.
+The reason that a want to share these tips is because I would love to help anyone on be more positive and relax when learning new things.
 
 <!--more-->
 

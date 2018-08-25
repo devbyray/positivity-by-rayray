@@ -1,0 +1,26 @@
+.newsletter {
+    background: #333333;
+    display: grid;
+    grid-template-columns:  repeat(5, 1fr);
+}
+.newsletter__form {
+    grid-column: 3;
+    padding: 2rem 0;
+    color: #fff;
+    text-align: center;
+}
+.newsletter__title {
+    margin: 0;
+}
+.newsletter__input-email,
+.newsletter__title {
+    margin-bottom: .5rem
+}
+.newsletter__input-email,
+.newsletter__submit {
+    width: 100%;
+    padding: .8rem 1rem
+}
+.newsletter__submit {
+    background: #ccc;
+}
