@@ -4,7 +4,7 @@ author: RayRay
 type: post
 date: 2018-08-09T08:32:08+00:00
 url: /3-tips-to-grow/
-image: http://res.cloudinary.com/raymons/image/upload/c_scale,h_637,w_850/v1535204552/byrayray/max-van-den-oetelaar-789616-unsplash.webp
+image: http://res.cloudinary.com/raymons/image/upload/c_scale,h_637,w_850/v1535204552/byrayray/max-van-den-oetelaar-789616-unsplash
 draft: false
 categories:
   - Grow

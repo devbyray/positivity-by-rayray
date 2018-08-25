@@ -4,7 +4,7 @@ author: RayRay
 type: post
 date: 2018-08-09T08:32:08+00:00
 url: /5-tips-to-grow/
-image: http://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,h_567,w_850/v1535201623/byrayray/fung-lam-790694-unsplash.webp
+image: http://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,h_567,w_850/v1535201623/byrayray/fung-lam-790694-unsplash
 draft: false
 categories:
   - Grow

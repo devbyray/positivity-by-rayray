@@ -14,7 +14,7 @@ body {
   grid-template-columns: 1fr;
 }
 .content__container {
-  background: #333333;
+  background: #f1f1f1;
   padding-bottom: 2rem
 }
 

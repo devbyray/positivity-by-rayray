@@ -4,7 +4,7 @@ author: RayRay
 type: post
 date: 2018-08-09T08:32:08+00:00
 url: /5-tips-to-grow-anything/
-image: http://res.cloudinary.com/raymons/image/upload/c_scale,h_567,w_850/v1535201277/byrayray/pietro-de-grandi-329892-unsplash.webp
+image: http://res.cloudinary.com/raymons/image/upload/c_scale,h_567,w_850/v1535201277/byrayray/pietro-de-grandi-329892-unsplash
 draft: false
 categories:
   - Grow

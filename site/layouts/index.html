@@ -30,12 +30,7 @@
           <h2 class="post__title">
               <a href="{{ .Permalink }}">{{ .Title }}</a>
           </h2>
-          {{ .Summary }} {{ if .Truncated }}
-          <div class="read-more-link">
-            <a href="{{ .RelPermalink }}">Read More…</a>
-          </div>
       </section>
-      {{ end }}
     </div>
     {{- end }}
   </div>
