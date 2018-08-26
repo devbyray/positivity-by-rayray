@@ -16,7 +16,9 @@ Do you know that feeling? Hearing in the back of your mind.
 
 > I can’t do this, because I don’t have this or that!
 
-<div style="position:relative;height:0;padding-bottom:56.2%"><iframe src="https://www.youtube.com/embed/-_NZeRUlGtc?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="641" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="igtv__wrapper">
+<video controls="controls" controlslist="nodownload" class="tWeCl" playsinline="" poster="https://scontent-amt2-1.cdninstagram.com/vp/063e364c1e136752e761d6dc6df1c801/5B851E73/t51.2885-15/e15/37408749_226253008218762_4877254025411559424_n.jpg" preload="none" src="https://scontent-amt2-1.cdninstagram.com/vp/d1f2721aac72ba83a731648a3b40a67b/5B84F001/t50.16885-16/10000000_288545841908709_1306854983626391552_n.mp4" type="video/mp4"></video>
+</div>
 
 Famous excuses we make all the time.
 

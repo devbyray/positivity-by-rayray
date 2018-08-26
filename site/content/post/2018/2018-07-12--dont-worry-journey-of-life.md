@@ -16,7 +16,9 @@ Life is not about reaching goals, because when we reach those goals we will have
 
 Life is about having a journey with things you will experience, some are great and some are not so great!
 
-<div style="position:relative;height:0;padding-bottom:75%"><iframe src="https://www.youtube.com/embed/3-DdYr-rpzk?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="480" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="igtv__wrapper">
+<video controls="controls" controlslist="nodownload" class="tWeCl" playsinline="" poster="https://scontent-amt2-1.cdninstagram.com/vp/2b855b31df3e30b64e7d3973a3eef6ca/5B84B5A9/t51.2885-15/fr/e15/p1080x1080/36597637_255277515280939_3140882722839330816_n.jpg" preload="none" src="https://scontent-amt2-1.cdninstagram.com/vp/fcdb4f14893cd1c461b4287a8367f451/5B84CAD2/t50.16885-16/10000000_227838291373153_202887645108371456_n.mp4" type="video/mp4"></video>
+</div>
 
 Things happen for a reason in life, even when you can’t see the reason at that point in life, later you will definitlly understand it!
 
