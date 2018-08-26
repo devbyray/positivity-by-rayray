@@ -1,0 +1,15 @@
+<div class="posts">
+    {{ range .Data.Pages -}}
+    <div class="post">
+        <picture class="post__picture-container">
+            <img class="post__image" src="{{ .Params.image }}" alt="">
+        </picture>
+        <!-- <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span> -->
+        <section class="post__excerpt">
+            <h2 class="post__title">
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </h2>
+        </section>
+    </div>
+    {{- end }}
+</div>

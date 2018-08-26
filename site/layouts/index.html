@@ -2,41 +2,22 @@
   <section class="hero">
     <img src="images/logo-by-rayray–transparant-white.png" class="hero__logo" alt="">
   </section>
-  <section class="newsletter">
+  <!-- <section class="newsletter">
     <form class="newsletter__form">
         <h2 class="newsletter__title">Subscribe to newletter</h2>
         <input type="email" name="email" class="newsletter__input-email" id="">
         <input type="submit" value="Subscribe" class="newsletter__submit">
     </form>
-  </section>
+  </section> -->
   <section class="introduction">
     <div class="introduction__tagline">
         <h1 class="" style="display:none;">Positivity By RayRay</h1>
         <h2 class="">
           <em>
-              Gain the skills and confidence to return to the workplace, hustle for the roles - and pay - you deserve, and make positive changes in your career. Equip yourself with the digital skills needed to thrive in today's modern workplace, or sign up for our social media training and join the thousands of Digital Mums who have unlocked flexible freelance careers that fit around their families.
+              Develop a Positive Mindset so you can live a great life to enjoy.
           </em>
         </h2>
     </div>
   </section>
-  <div class="posts">
-    {{ range .Data.Pages -}}
-    <div class="post">
-      <picture class="post__picture-container">
-          <img class="post__image" src="{{ .Params.image }}" alt="">
-      </picture>
-      <!-- <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span> -->
-      <section class="post__excerpt">
-          <h2 class="post__title">
-              <a href="{{ .Permalink }}">{{ .Title }}</a>
-          </h2>
-          {{ .Summary }} {{ if .Truncated }}
-          <div class="read-more-link">
-            <a href="{{ .RelPermalink }}">Read More…</a>
-          </div>
-      </section>
-      {{ end }}
-    </div>
-    {{- end }}
-  </div>
+  {{ partial "posts.html" . }}
 {{- end }}

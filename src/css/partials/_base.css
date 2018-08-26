@@ -1,5 +1,5 @@
 body {
-  font-family: "Helvetica", sans-serif;
+  font-family: "Georgia", sans-serif;
   font-size: 1.2rem;
   line-height: 1.4;
 }
@@ -14,7 +14,7 @@ body {
   grid-template-columns: 1fr;
 }
 .content__container {
-  background: #333333;
+  background: #f1f1f1;
   padding-bottom: 2rem
 }
 
