@@ -4,7 +4,7 @@ author: RayRay
 type: post
 date: 2018-08-09T08:32:08+00:00
 url: /5-tips-to-grow-anything/
-image: http://res.cloudinary.com/raymons/image/upload/c_scale,h_567,w_850/v1535201277/byrayray/pietro-de-grandi-329892-unsplash
+image: https://res.cloudinary.com/raymons/image/upload/c_scale,h_567,w_850/v1535201277/byrayray/pietro-de-grandi-329892-unsplash
 draft: false
 categories:
   - Grow
@@ -15,6 +15,8 @@ Today I will give you 5 tips, that I have learned, in order to learn new things.
 <!--more-->
 
 Let’s start with the first tip!
+
+<!-- <video controls="" controlslist="nodownload" class="tWeCl" playsinline="" poster="https://scontent-amt2-1.cdninstagram.com/vp/8ee9f6a1a649b9ab2a3304cb2f09a365/5B8405C6/t51.2885-15/e15/38826869_440521833122152_6666902361476169728_n.jpg" preload="none" src="https://scontent-amt2-1.cdninstagram.com/vp/d6a845357663e356ce18d5a68f5251b3/5B83ECA5/t50.16885-16/10000000_327950427943666_7896941734754516992_n.mp4" type="video/mp4"></video> -->
 
 ## 1 Put yourself in positions where you are not the expert
 
