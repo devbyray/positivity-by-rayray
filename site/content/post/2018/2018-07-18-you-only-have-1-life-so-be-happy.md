@@ -4,7 +4,7 @@ author: RayRay
 type: post
 date: 2018-07-18T08:32:08+00:00
 url: /you-only-have-1-life-so-be-happy/
-image: http://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,h_3542,w_2424/v1535277885/byrayray/you-only-have-1-life.jpg
+image: http://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,w_2424/v1535277885/byrayray/you-only-have-1-life.jpg
 draft: false
 categories:
   - Happy

@@ -14,7 +14,7 @@ You remember the song right? This song is sticking in so many peoples mind
 <!--more-->
 
 <div class="igtv__wrapper">
-<video controls="controls" controlslist="nodownload" class="tWeCl" playsinline="" poster="https://scontent-amt2-1.cdninstagram.com/vp/2b386269d52fb6114149bc7c104d2646/5B84FE0A/t51.2885-15/e15/37704022_274408313353113_6699938837600141312_n.jpg" preload="none" src="https://scontent-amt2-1.cdninstagram.com/vp/8f5faa770f11afb93b3cbd3e0eee6afa/5B84BB9C/t50.16885-16/10000000_312155009527760_8488684534747889664_n.mp4" type="video/mp4"></video>
+<video controls="controls" controlslist="nodownload" class="tWeCl igtv__video" playsinline="" poster="https://scontent-amt2-1.cdninstagram.com/vp/2b386269d52fb6114149bc7c104d2646/5B84FE0A/t51.2885-15/e15/37704022_274408313353113_6699938837600141312_n.jpg" preload="none" src="https://scontent-amt2-1.cdninstagram.com/vp/8f5faa770f11afb93b3cbd3e0eee6afa/5B84BB9C/t50.16885-16/10000000_312155009527760_8488684534747889664_n.mp4" type="video/mp4"></video>
 </div>
 
 

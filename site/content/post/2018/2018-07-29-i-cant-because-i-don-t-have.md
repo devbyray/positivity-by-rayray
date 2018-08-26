@@ -4,7 +4,7 @@ author: RayRay
 type: post
 date: 2018-07-29T08:32:08+00:00
 url: /i-cant-because-i-don-t-have/
-image: http://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,h_2004,w_2000/v1535278386/byrayray/i-cant-because-i-don-t-have.jpg
+image: http://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,w_2560/v1535278386/byrayray/i-cant-because-i-don-t-have.jpg
 draft: false
 categories:
   - Complain
@@ -17,7 +17,7 @@ Do you know that feeling? Hearing in the back of your mind.
 > I can’t do this, because I don’t have this or that!
 
 <div class="igtv__wrapper">
-<video controls="controls" controlslist="nodownload" class="tWeCl" playsinline="" poster="https://scontent-amt2-1.cdninstagram.com/vp/063e364c1e136752e761d6dc6df1c801/5B851E73/t51.2885-15/e15/37408749_226253008218762_4877254025411559424_n.jpg" preload="none" src="https://scontent-amt2-1.cdninstagram.com/vp/d1f2721aac72ba83a731648a3b40a67b/5B84F001/t50.16885-16/10000000_288545841908709_1306854983626391552_n.mp4" type="video/mp4"></video>
+<video controls="controls" controlslist="nodownload" class="tWeCl igtv__video" playsinline="" poster="https://scontent-amt2-1.cdninstagram.com/vp/063e364c1e136752e761d6dc6df1c801/5B851E73/t51.2885-15/e15/37408749_226253008218762_4877254025411559424_n.jpg" preload="none" src="https://scontent-amt2-1.cdninstagram.com/vp/d1f2721aac72ba83a731648a3b40a67b/5B84F001/t50.16885-16/10000000_288545841908709_1306854983626391552_n.mp4" type="video/mp4"></video>
 </div>
 
 Famous excuses we make all the time.
