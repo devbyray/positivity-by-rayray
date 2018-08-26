@@ -35,6 +35,12 @@
   max-width: 700px;
   font-size: 1.4rem;
 }
+@media (max-width: 60em) {
+    .single-post__content {
+        padding: 0 1rem;
+    }
+}
+
 
 .single-post__content blockquote {
   font-size: 2rem;
