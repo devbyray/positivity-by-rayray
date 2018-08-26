@@ -4,9 +4,10 @@
         <li class="nav__item">
           <a class="nav__link" href="{{ .Site.BaseURL }}">Home</a>
         </li>
-        <li class="nav__item">
+        <!-- <li class="nav__item">
           <a class="nav__link" href="{{ .Site.BaseURL }}">About</a>
-        </li>
+        </li> -->
+        <li class="nav__item"><a class="nav__link" href="https://www.instagram.com/positivitybyrayray/" target="_blank">Instagram</a> </li>
         {{ range .Site.Menus.main -}}
           <li class="nav__item">
             <a class="nav__link" href="{{.URL}}"> {{ .Name }} </a>
@@ -18,9 +19,6 @@
     <a href="{{ .Site.BaseURL }}"><img class="logo__image" src="{{ .Site.BaseURL }}images/logo-by-rayray-mark.png" alt=""></a>
   </span>
 
-  <ul class="sidebar-nav">
-    <li><a href="https://www.instagram.com/positivitybyrayray/" target="_blank">Instagram</a> </li>
-  </ul>
   <span class="empty"></span>
 
 </header>
