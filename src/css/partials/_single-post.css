@@ -1,3 +1,7 @@
+.single-post {
+    background: #fff;
+    margin-bottom: -4rem;
+}
 .single-post__picture {
   width: 100%;
   height: 60vh;
