@@ -1,23 +1,36 @@
 {{ define "main" -}}
-  <section class="hero">
-    <img src="images/logo-by-rayray–transparant-white.png" class="hero__logo" alt="">
-  </section>
-  <!-- <section class="newsletter">
-    <form class="newsletter__form">
-        <h2 class="newsletter__title">Subscribe to newletter</h2>
-        <input type="email" name="email" class="newsletter__input-email" id="">
-        <input type="submit" value="Subscribe" class="newsletter__submit">
-    </form>
-  </section> -->
-  <section class="introduction">
-    <div class="introduction__tagline">
-        <h1 class="" style="display:none;">Positivity By RayRay</h1>
-        <h2 class="">
-          <em>
-              Develop a Positive Mindset so you can live a great life to enjoy.
-          </em>
-        </h2>
+<section class="hero">
+  <img src="images/logo-by-rayray–transparant-white.png" class="hero__logo" alt="">
+</section>
+<section class="newsletter">
+  <div class="newsletter__form">
+    <h2 class="newsletter__title">Subscribe to our mailing list</h2>
+    <!-- Begin MailChimp Signup Form -->
+    <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+    <div id="mc_embed_signup">
+      <form action="https://byrayray.us16.list-manage.com/subscribe/post?u=9ce01ecaaa1baf323e7ea5838&amp;id=b300bb9191" method="post"
+        id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+        <div id="mc_embed_signup_scroll">
+          <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+          <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9ce01ecaaa1baf323e7ea5838_b300bb9191"
+              tabindex="-1" value=""></div>
+          <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+        </div>
+      </form>
     </div>
-  </section>
-  {{ partial "posts.html" . }}
-{{- end }}
+
+    <!--End mc_embed_signup-->
+  </div>
+</section>
+<section class="introduction">
+  <div class="introduction__tagline">
+    <h1 class="" style="display:none;">Positivity By RayRay</h1>
+    <h2 class="">
+      <em>
+        Develop a Positive Mindset so you can live a great life to enjoy.
+      </em>
+    </h2>
+  </div>
+</section>
+{{ partial "posts.html" . }} {{- end }}
