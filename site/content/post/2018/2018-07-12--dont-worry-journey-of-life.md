@@ -4,7 +4,7 @@ author: RayRay
 type: post
 date: 2018-07-12T08:32:08+00:00
 url: /dont-worry-it-s-all-about-enjoying-the-journey-of-life/
-image: http://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,w_2560/v1535273099/byrayray/journey-of-life.jpg
+image: https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,w_2560/v1535273099/byrayray/journey-of-life.jpg
 draft: false
 categories:
   - Worry

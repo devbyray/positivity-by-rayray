@@ -4,7 +4,7 @@ author: RayRay
 type: post
 date: 2018-08-11T08:32:08+00:00
 url: /5-tips-to-grow-in-any-skill/
-image: http://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,w_2560/v1535289210/byrayray/5-tips-to-grow-in-any-skill.jpg
+image: https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,w_2560/v1535289210/byrayray/5-tips-to-grow-in-any-skill.jpg
 draft: false
 categories:
   - Worry

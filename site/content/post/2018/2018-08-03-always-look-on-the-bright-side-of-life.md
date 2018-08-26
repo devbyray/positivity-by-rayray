@@ -4,7 +4,7 @@ author: RayRay
 type: post
 date: 2018-08-03T08:32:08+00:00
 url: /always-look-on-the-bright-side-of-life/
-image: http://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,w_2560/v1535288914/byrayray/always-look-on-the-bright-side-of-life.jpg
+image: https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,w_2560/v1535288914/byrayray/always-look-on-the-bright-side-of-life.jpg
 draft: false
 categories:
   - Worry
