@@ -2,6 +2,9 @@
     background: #fff;
     margin-bottom: -4rem;
 }
+.single-post h1 {
+    font-size: 2rem;
+}
 .single-post__picture {
   width: 100%;
   height: 60vh;
@@ -36,16 +39,31 @@
 .single-post__content blockquote {
   font-size: 2rem;
 }
-.single-post__content img,
-.yt__video {
-  margin: 0 -2rem;
+.single-post__content img {
+    max-width: 100%;
+}
+@media (min-width: 40em) {
+    .single-post h1 {
+        font-size: 3rem;
+    }
+}
+@media (min-width: 60em) {
+    .single-post h1 {
+        font-size: 4rem;
+    }
+    .single-post__content img,
+    .yt__video {
+      margin: 0 -2rem;
+    }
+    .igtv__wrapper {
+        margin: 0 -4rem;
+    }
 }
 .igtv__wrapper {
   background: #000;
   display: flex;
   justify-content: center;
   height: 400px;
-  margin: 0 -4rem;
 }
 .igtv__video {
   max-width: 200px;
