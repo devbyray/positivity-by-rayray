@@ -16,7 +16,7 @@ Today I will give you 5 tips, that I have learned, in order to learn new things.
 The reason that a want to share these tips is because I would love to help anyone on be more positive and relax when learning new things.
 
 <div class="igtv__wrapper">
-<video controls="controls" controlslist="nodownload" class="tWeCl igtv__video" playsinline="" poster="https://scontent-amt2-1.cdninstagram.com/vp/fcc1e2f73233c7f153b9d517fbee6be2/5B84EEDD/t51.2885-15/e15/38514032_220121468665724_627424078323515392_n.jpg" preload="none" src="https://scontent-amt2-1.cdninstagram.com/vp/bb611178ac1b54740442ce47044bb068/5B84D7A2/t50.16885-16/10000000_382818345581438_6286570255657467904_n.mp4" type="video/mp4"></video>
+<video controls="" controlslist="nodownload" class="tWeCl igtv__video" playsinline="" poster="https://scontent-amt2-1.cdninstagram.com/vp/917b26273326f608066bf4d839e42698/5B883A9D/t51.2885-15/e15/38514032_220121468665724_627424078323515392_n.jpg" preload="none" src="https://scontent-amt2-1.cdninstagram.com/vp/4e6c7393bc027a0d342d02858cc25bd2/5B882362/t50.16885-16/10000000_382818345581438_6286570255657467904_n.mp4" type="video/mp4"></video>
 </div>
 
 Let’s start with the first tip!
