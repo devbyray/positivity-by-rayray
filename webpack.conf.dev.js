@@ -10,26 +10,18 @@ export default {
       },
       {test: /\.json$/, loader: "json-loader"},
       {
+        // loader: "babel-loader",
         test: /\.{js,mjs}?$/,
-        exclude: /node_modules/,
         use: {
-          loader: 'babel-loader',
+          loader: "babel-loader",
           options: {
             presets: [
-              ['env', {
-                esmodules: false,
-                useBuiltIns: true,
-                targets: {
-                  browsers: [
-                    '> 1%',
-                    'last 2 versions',
-                    'Firefox ESR',
-                  ],
-                },
-              }],
-            ],
-          },
-        },
+              [
+                "minify"
+              ]
+            ]
+          }
+        }
       }
     ]
   },
@@ -47,12 +39,12 @@ export default {
 
   context: path.join(__dirname, "src"),
   entry: {
-    appes5: ['./js/app']
+    app: ["./js/app"]
   },
   output: {
     path: path.join(__dirname, "dist"),
     publicPath: "/",
-    filename: "[name].js"
+    filename: "[name].mjs"
   },
   externals: [/^vendor\/.+\.js$/]
 };
