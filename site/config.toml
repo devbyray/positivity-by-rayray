@@ -9,3 +9,22 @@ title = "Positivity byRayRay"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 googleAnalytics = "UA-23405543-8"
 
+[menu]
+
+  [[menu.main]]
+    identifier = "By RayRay"
+    name = "Home"
+    url = "/about/"
+    weight = -110
+
+  [[menu.main]]
+    identifier = "Grow your positive mindset Podcast"
+    name = "Podcast"
+    url = "/podcast/"
+    weight = -100
+
+  [[menu.right]]
+    identifier = "Positivity By RayRay on Instagram"
+    name = "Instagram"
+    url = "https://www.instagram.com/positivitybyrayray/"
+    weight = -100

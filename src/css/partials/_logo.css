@@ -1,3 +1,11 @@
+.logo {
+    text-align: center;
+}
 .logo__image {
     max-height: 40px;
+}
+@media (min-width: 60em) {
+    .logo {
+        grid-column: 2;
+    }
 }

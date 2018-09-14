@@ -10,7 +10,7 @@ body {
   width: 100vw;
   min-height: 100vh;
   display: grid;
-  grid-template-rows: 50px 1fr 32px;
+  grid-template-rows: auto 1fr 32px;
   grid-template-columns: 1fr;
 }
 .content__container {
@@ -21,4 +21,8 @@ body {
 body,
 a {
   color: #333333;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+  margin: 0 0 2rem 0;
 }
