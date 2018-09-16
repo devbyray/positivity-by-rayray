@@ -1,6 +1,5 @@
 +++
 Description = ""
-Tags = ["Development", "golang"]
-Categories = ["Development", "GoLang"]
+Tags = ["Positivity", "Self-help", "Podcast"]
 menu = "main"
 +++

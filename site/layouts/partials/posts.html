@@ -1,5 +1,5 @@
 <div class="posts">
-    {{ range .Data.Pages -}}
+    {{ range where .Pages "Params.type" "post"}}
     <div class="post">
         <picture class="post__picture-container">
             <img class="post__image" src="{{ .Params.image }}" alt="">
@@ -11,5 +11,5 @@
             </h2>
         </section>
     </div>
-    {{- end }}
+    {{ end }}
 </div>

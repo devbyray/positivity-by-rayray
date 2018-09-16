@@ -1,9 +1,22 @@
 .header--main {
     width: 100vw;
-    display: grid;
-    grid-template-columns: 1fr 40px 1fr;
     padding: 0 2rem;
 }
 .header__nav {
-    height: 50px;
+    /* height: 50px; */
+}
+@media (min-width: 60em) {
+    .header--main {
+        display: grid;
+        grid-template-columns: 1fr 40px 1fr;
+    }
+    .header__nav {
+        grid-column: 1;
+        grid-row: 1;
+    }
+    .header__nav--right {
+        grid-column: 3;
+        grid-row: 1;
+    }
+
 }

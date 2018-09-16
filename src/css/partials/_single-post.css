@@ -1,6 +1,7 @@
 .single-post {
     background: #fff;
     margin-bottom: -4rem;
+    min-height: 100vh;
 }
 .single-post h1 {
     font-size: 2rem;
@@ -45,6 +46,9 @@
 .single-post__content blockquote {
   font-size: 2rem;
 }
+.single-post__content iframe {
+    width: 100%;
+}
 .single-post__content img {
     max-width: 100%;
 }
@@ -60,6 +64,7 @@
     .single-post__content img,
     .yt__video {
       margin: 0 -2rem;
+      max-width: calc(100% + 4rem);
     }
     .igtv__wrapper {
         margin: 0 -4rem;

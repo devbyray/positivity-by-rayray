@@ -1,24 +1,26 @@
 <header class="header--main">
-  <nav class="header__nav">
-    <ul class="nav__list">
-        <li class="nav__item">
-          <a class="nav__link" href="{{ .Site.BaseURL }}">Home</a>
-        </li>
-        <!-- <li class="nav__item">
-          <a class="nav__link" href="{{ .Site.BaseURL }}">About</a>
-        </li> -->
-        <li class="nav__item"><a class="nav__link" href="https://www.instagram.com/positivitybyrayray/" target="_blank">Instagram</a> </li>
-        {{ range .Site.Menus.main -}}
-          <li class="nav__item">
-            <a class="nav__link" href="{{.URL}}"> {{ .Name }} </a>
-          </li>
-        {{- end }}
-      </ul>
-  </nav>
-  <span class="logo">
-    <a href="{{ .Site.BaseURL }}"><img class="logo__image" src="{{ .Site.BaseURL }}images/logo-by-rayray-mark.png" alt=""></a>
-  </span>
+    <div class="logo">
+        <a href="{{ .Site.BaseURL }}"><img class="logo__image" src="{{ .Site.BaseURL }}images/logo-by-rayray-mark.png" alt=""></a>
+    </div>
 
-  <span class="empty"></span>
+    <nav class="header__nav">
+      <ul class="nav__list">
+          {{ range .Site.Menus.main -}}
+            <li class="nav__item">
+              <a class="nav__link" href="{{.URL}}"> {{ .Name }} </a>
+            </li>
+          {{- end }}
+        </ul>
+    </nav>
+
+    <nav class="header__nav header__nav--right">
+      <ul class="nav__list nav__list--right">
+          {{ range .Site.Menus.right -}}
+            <li class="nav__item">
+              <a class="nav__link" href="{{.URL}}"> {{ .Name }} </a>
+            </li>
+          {{- end }}
+        </ul>
+    </nav>
 
 </header>
