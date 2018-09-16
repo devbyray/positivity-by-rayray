@@ -17,15 +17,18 @@ If you like my episodes please share them around, because positivity has to be s
 
 ### Episode 1 - Be thankful for the things you have
 <time>2018-09-01</time>
-<iframe src="https://anchor.fm/growpositivemindset/embed/episodes/1---Be-thankful-for-the-things-you-have-e24lsp" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<div class="progressive-iframe" data-src="https://anchor.fm/growpositivemindset/embed/episodes/1---Be-thankful-for-the-things-you-have-e24lsp"></div>
 
 ### Episode 2 - Embrace failure!
 <time>2018-09-01</time>
-<iframe src="https://anchor.fm/growpositivemindset/embed/episodes/2---Embrace-failure-e24lt6" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<div class="progressive-iframe" data-src="https://anchor.fm/growpositivemindset/embed/episodes/2---Embrace-failure-e24lt6"></div>
 
 ### Episode 3 - Look to the future
 <time>2018-09-08</time>
-<iframe src="https://anchor.fm/growpositivemindset/embed/episodes/3---Look-to-the-future-e24lti" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+<div class="progressive-iframe" data-src="https://anchor.fm/growpositivemindset/embed/episodes/3---Look-to-the-future-e24lti"></div>
 
 ## Find the podcast on
 - [**Anchor**](https://anchor.fm/growpositivemindset)

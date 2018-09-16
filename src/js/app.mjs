@@ -1,3 +1,4 @@
+import 'intersection-observer';
 import Lazzzy from "./lazzzy/lazzzy.mjs";
 
 window.onload = () => {

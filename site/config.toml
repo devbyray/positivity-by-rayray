@@ -14,7 +14,7 @@ googleAnalytics = "UA-23405543-8"
   [[menu.main]]
     identifier = "By RayRay"
     name = "Home"
-    url = "/about/"
+    url = "/"
     weight = -110
 
   [[menu.main]]
