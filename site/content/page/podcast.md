@@ -7,7 +7,7 @@ draft: false
 
 # Grow your positive mindset Podcast
 
-![](http://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,q_71,w_1400/v1536953965/byrayray/Grow_your_positive_mindset_podcast.jpg)
+![](https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,q_71,w_1400/v1536953965/byrayray/Grow_your_positive_mindset_podcast.jpg)
 
 The "grow your positive mindset" podcast is hosted by Ray (me 😉). With all the episodes I want to help people live their lives more optimistic. This helps us all to live a happier life. In the end, that's what everyone wants right?
 

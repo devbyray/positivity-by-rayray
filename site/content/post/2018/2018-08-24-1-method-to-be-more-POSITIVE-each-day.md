@@ -4,7 +4,7 @@ author: RayRay
 type: post
 date: 2018-08-11T08:32:08+00:00
 url: /1-method-to-be-more-POSITIVE-each-day/
-image: http://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,w_2560/v1535481782/1-method-to-be-more-POSITIVE-each-day.jpg
+image: https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,w_2560/v1535481782/1-method-to-be-more-POSITIVE-each-day.jpg
 draft: false
 categories:
   - Positivity
