@@ -39,4 +39,4 @@ If you like my episodes please share them around, because positivity has to be s
 - [**Overcast**](https://overcast.fm/itunes1425920642/positivity-by-ray)
 - [**Pocket Casts** ](https://pca.st/61JW)
 - [**RadioPublic**](https://play.radiopublic.com/positivity-by-ray-Wkdm1Y)
-- [**Sticker**](https://www.stitcher.com/podcast/anchor-podcasts/positivity-by-ray)
+- [**Sticher**](https://www.stitcher.com/podcast/anchor-podcasts/positivity-by-ray)

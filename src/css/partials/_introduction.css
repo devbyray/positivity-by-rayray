@@ -1,11 +1,19 @@
 .introduction {
     background: #fff;
-    display: grid;
-    grid-template-columns:  repeat(7, 1fr);
     margin-bottom: 2rem;
+}
+.introduction__title {
+    display: none;
 }
 .introduction__tagline {
     grid-column: 3/6;
     padding: 2rem 0;
     text-align: center
+}
+@media (min-width: 40em) {
+    .introduction {
+        display: grid;
+        grid-template-columns:  repeat(7, 1fr);
+        grid-template-rows: repeat(2, auto);
+    }
 }
