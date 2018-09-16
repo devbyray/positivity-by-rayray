@@ -1,14 +1,17 @@
 {{ define "main" -}}
 <div class="single-post">
-    <picture class="single-post__picture">
-        <img class="single-post__image" src="{{ .Params.image }}" alt="">
-        <div class="single-post__title-container">
-            <h1 class="single-post__title">{{ .Title }}</h1>
-        </div>
-    </picture>
+    {{ if isset .Params "image" }}
+        <picture class="single-post__picture">
+            <img class="single-post__image" src="{{ .Params.image }}" alt="">
+            <div class="single-post__title-container">
+                <h1 class="single-post__title">{{ .Title }}</h1>
+            </div>
+        </picture>
+    {{ end }}
     <article class="single-post__content">
-        <div class="podcast__player" data-audio="{{ .Params.audio }}"></div>
+        {{ if not .Date.IsZero }}
         <p><em><span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span></em></p>
+        {{end}}
         {{ .Content }}
     </article>
 </div>

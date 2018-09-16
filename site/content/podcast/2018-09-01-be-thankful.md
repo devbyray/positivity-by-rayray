@@ -4,7 +4,6 @@ author: RayRay
 type: podcast
 date: 2018-07-12T08:32:08+00:00
 url: /grow-positive-mindset-podcast-episode-1-be-thankful-for-the-things-you-have/
-audio: "https://d3ctxlq1ktw2nl.cloudfront.net/production/2018-8-1/4352502-44100-2-035257b53a386.m4a"
 draft: false
 categories:
   - Podcast
@@ -12,7 +11,9 @@ categories:
 
 
 <!--more-->
+# Podcast #1 - Be thankful for the things you have
 
+<div class="progressive-iframe" data-src="https://anchor.fm/growpositivemindset/embed/episodes/1---Be-thankful-for-the-things-you-have-e24lsp/a-a53b1m"></div>
 
 ## Thankful
 
@@ -47,3 +48,4 @@ Do this daily the next coming 7 days.
 - [**Pocket Casts**  "_Grow your positive mindset podcast_"](https://pca.st/61JW)
 - [**RadioPublic** "_Grow your positive mindset podcast_"](https://play.radiopublic.com/positivity-by-ray-Wkdm1Y)
 - [**Sticker** "_Grow your positive mindset podcast_"](https://www.stitcher.com/podcast/anchor-podcasts/positivity-by-ray)
+
