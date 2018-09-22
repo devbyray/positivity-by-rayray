@@ -1,16 +1,33 @@
 .newsletter {
-    background: #333333;
+    background: #f8b682;
     display: grid;
-    grid-template-columns:  repeat(5, 1fr);
+    grid-template-columns:  repeat(6, 1fr);
 }
 .newsletter__form {
-    grid-column: 2/5;
-    padding: 2rem 0;
+    grid-column: 1/7;
+    padding: 2rem;
     color: #fff;
     text-align: center;
 }
+#mc_embed_signup_scroll {
+    display: grid;
+    grid-template-rows: repeat(2, 60px);
+}
+@media (min-width: 40em) {
+    .newsletter__form {
+        padding: 2rem 0;
+        grid-column: 3/5;
+    }
+    #mc_embed_signup_scroll {
+        grid-template-columns:  5fr 1fr;
+        grid-template-rows: 60px;
+    }
+}
 .newsletter__title {
     margin: 0;
+}
+.newsletter__input-email {
+    height: 60px;
 }
 .newsletter__input-email,
 .newsletter__title {

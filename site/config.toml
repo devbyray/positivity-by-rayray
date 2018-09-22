@@ -14,7 +14,7 @@ googleAnalytics = "UA-23405543-8"
   [[menu.main]]
     identifier = "By RayRay"
     name = "Home"
-    url = "/about/"
+    url = "/"
     weight = -110
 
   [[menu.main]]
@@ -32,5 +32,6 @@ googleAnalytics = "UA-23405543-8"
   [[menu.right]]
     identifier = "Positivity By RayRay on Instagram"
     name = "Instagram"
+    pre = "<i class='fa fa-instagram'></i>"
     url = "https://www.instagram.com/positivitybyrayray/"
     weight = -110

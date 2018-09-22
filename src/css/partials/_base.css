@@ -26,3 +26,30 @@ a {
 p, h1, h2, h3, h4, h5, h6 {
   margin: 0 0 2rem 0;
 }
+iframe {
+  border: 0;
+}
+
+button, .button {
+  display: inline-block;
+  background: #f5d26b;
+  color: #fff;
+  padding: .5rem 1rem;
+  transition: .3s ease-in-out;
+}
+button, .button:hover, .button--secondary:hover {
+  color: #f5d26b;
+  background: #333;
+}
+
+.button--secondary {
+  display: inline-block;
+  background: #000;
+  color: #fff;
+  padding: .5rem 1rem;
+  transition: .3s ease-in-out;
+}
+
+.progressive-iframe {
+  min-height: 1px;
+}

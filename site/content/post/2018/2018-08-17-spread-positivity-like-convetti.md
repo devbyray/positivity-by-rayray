@@ -4,7 +4,7 @@ author: RayRay
 type: post
 date: 2018-08-11T08:32:08+00:00
 url: /spread-positivity-like-confetti/
-image: http://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,w_2560/v1535201266/byrayray/spread-positivity-like-confetti.jpg
+image: https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,w_2560/v1535201266/byrayray/spread-positivity-like-confetti.jpg
 draft: false
 categories:
   - Positivity
@@ -14,7 +14,7 @@ Yesterday, I was thinking, why do I make this video’s and put them online so e
 
 <!--more-->
 
-And the reason is, I have the feeling that I need to do this, must do this! 
+And the reason is, I have the feeling that I need to do this, must do this!
 
 It’s feels like I can’t keep it inside my mind anymore, it wants to come out and break out if I won’t do it!
 
@@ -32,7 +32,7 @@ So If you need some positive motivation on something in your life, please DM me 
 
 Because I love to spread positivity like it’s confetti! And you know the thing with confetti, it comes everywhere. Even on places you wouldn’t expect it. Sometimes you will find it after months 😉
 
-Know that you are worth it! Even if you don’t feel like it, even if other people tell you otherwise! 
+Know that you are worth it! Even if you don’t feel like it, even if other people tell you otherwise!
 
 But you are here for a reason! Even if your parents didn’t planned you! You are here for a reason!
 
