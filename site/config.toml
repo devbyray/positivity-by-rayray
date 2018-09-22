@@ -24,8 +24,14 @@ googleAnalytics = "UA-23405543-8"
     weight = -100
 
   [[menu.right]]
+    identifier = "Positivity by RayRay products"
+    name = "Products"
+    url = "https://www.instagram.com/positivitybyrayray/"
+    weight = -100
+
+  [[menu.right]]
     identifier = "Positivity By RayRay on Instagram"
     name = "Instagram"
     pre = "<i class='fa fa-instagram'></i>"
     url = "https://www.instagram.com/positivitybyrayray/"
-    weight = -100
+    weight = -110
