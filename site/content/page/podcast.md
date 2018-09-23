@@ -32,11 +32,11 @@ If you like my episodes please share them around, because positivity has to be s
 
 ### Episode 4 - A powerful way to be better each day
 <time>2018-09-16</time>
-<iframe data-src="https://anchor.fm/growpositivemindset/embed/episodes/4---A-powerful-way-to-be-better-each-day-e26t36/a-a598cl" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<div class="progressive-iframe" data-src="https://anchor.fm/growpositivemindset/embed/episodes/4---A-powerful-way-to-be-better-each-day-e26t36/a-a598cl"></div>
 
 ### Episode 5 - How to get an Agile Mindset
 <time>2018-09-22</time>
-<iframe data-src="https://anchor.fm/growpositivemindset/embed/episodes/5---How-to-get-an-Agile-Mindset-e294pm/a-a5en26" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<div class="progressive-iframe" data-src="https://anchor.fm/growpositivemindset/embed/episodes/5---How-to-get-an-Agile-Mindset-e294pm/a-a5en26"></div>
 
 ## Find the podcast on
 - [**Anchor**](https://anchor.fm/growpositivemindset)
