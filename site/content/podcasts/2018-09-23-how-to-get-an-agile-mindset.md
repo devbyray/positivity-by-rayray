@@ -2,7 +2,7 @@
 title: "Podcast #5 - How to get an Agile Mindset"
 author: RayRay
 type: podcasts
-date: 2018-07-12T08:32:08+00:00
+date: 2018-09-23T08:32:08+00:00
 url: /grow-positive-mindset-podcast-episode-5-how-to-get-an-agile-mindset/
 draft: false
 categories:
@@ -13,7 +13,7 @@ categories:
 <!--more-->
 # Podcast #5 - How to get an Agile Mindset
 
-<div class="progressive-iframe" data-src="https://anchor.fm/growpositivemindset/embed/episodes/1---Be-thankful-for-the-things-you-have-e24lsp/a-a53b1m"></div>
+<div class="progressive-iframe" data-src="https://anchor.fm/growpositivemindset/embed/episodes/5---How-to-get-an-Agile-Mindset-e294pm/a-a5en26"></div>
 
 *The show notes are not transcribed, so it's worth it to listen to it as well 😉*
 
