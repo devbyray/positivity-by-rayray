@@ -22,7 +22,6 @@ If you like my episodes please share them around, because positivity has to be s
 
 ### Episode 2 - Embrace failure!
 <time>2018-09-01</time>
-
 <div class="progressive-iframe" data-src="https://anchor.fm/growpositivemindset/embed/episodes/2---Embrace-failure-e24lt6"></div>
 
 ### Episode 3 - Look to the future
