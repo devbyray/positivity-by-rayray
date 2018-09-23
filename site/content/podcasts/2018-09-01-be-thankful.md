@@ -2,7 +2,7 @@
 title: "Podcast #1 - Be thankful for the things you have"
 author: RayRay
 type: podcasts
-date: 2018-07-12T08:32:08+00:00
+date: 2018-09-01T08:32:08+00:00
 url: /grow-positive-mindset-podcast-episode-1-be-thankful-for-the-things-you-have/
 draft: false
 categories:
