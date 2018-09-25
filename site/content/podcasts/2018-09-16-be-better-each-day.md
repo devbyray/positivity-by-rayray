@@ -1,9 +1,9 @@
 ---
-title: "Podcast #2- Embrace failure!"
+title: "Podcast #4- A powerful way to be better each day"
 author: RayRay
 type: podcasts
-date: 2018-09-01T08:32:08+00:00
-url: /grow-positive-mindset-podcast-episode-2-embrace-failure/
+date: 2018-09-16T08:32:08+00:00
+url: /grow-positive-mindset-podcast-episode-4-a-powerful-way-to-be-better-each-day/
 draft: false
 categories:
   - Podcast
@@ -11,20 +11,30 @@ categories:
 
 
 <!--more-->
-# Podcast #2 - Embrace failure!
+# Podcast #4
+## A powerful way to be better each day
 
-![](https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,q_74,w_1400/v1537686116/byrayray/Embrace_failure_1.jpg)
+![](https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,h_1400,q_74,w_1400/v1537686024/byrayray/A_simple_and_powerful_way_to_become_a_better_each_day_1.jpg)
 
-<div class="progressive-iframe" data-src="https://anchor.fm/growpositivemindset/embed/episodes/2---Embrace-failure-e24lt6"></div>
+<div class="progressive-iframe" data-src="https://anchor.fm/growpositivemindset/embed/episodes/4---A-powerful-way-to-be-better-each-day-e26t36/a-a598cl"></div>
 
-- Imagine a baby that’s growing and need to learn to walk
-- Don’t be scared to make mistake
-- Focus on the things you want
-- Failure is not bad
-- Failure is bad when it makes you stop trying
+### It’s hard to become better
 
+- A lot of people think that they are not good enough
+- Compare themselves with other people
+- What happens if you don’t see your own change
+- What if you don’t see your own personal development
+- That’s a depressing feeling
 
-## Find the podcast on
+### Everyday 1% better than yesterday
+
+- This is such an enlightenment
+- 1% better every day is easy
+- focus on just a little bit better
+- after a year you became 365% so that is huge
+- this is a real mindset and mind shift
+
+### Find the podcast on
 - [**Anchor** "_Grow your positive mindset podcast_"](https://anchor.fm/growpositivemindset)
 - [**Apple Podcast** "_Grow your positive mindset podcast_"](https://itunes.apple.com/us/podcast/positivity-by-ray/id1425920642)
 - [**Google Podcast** "_Grow your positive mindset podcast_"](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xODI0NTI4L3BvZGNhc3QvcnNz)

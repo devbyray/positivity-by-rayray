@@ -1,19 +1,41 @@
 {{ define "main" -}}
 <div class="single-post">
     {{ if isset .Params "image" }}
-        <picture class="single-post__picture">
-            <img class="single-post__image" src="{{ .Params.image }}" alt="">
-            <div class="single-post__title-container">
-                <h1 class="single-post__title">{{ .Title }}</h1>
-            </div>
-        </picture>
+    <picture class="single-post__picture">
+        <img class="single-post__image" src="{{ .Params.image }}" alt="">
+        <div class="single-post__title-container">
+            <h1 class="single-post__title">{{ .Title }}</h1>
+        </div>
+    </picture>
     {{ end }}
+
     <article class="single-post__content">
         {{ if not .Date.IsZero }}
         <p><em><span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span></em></p>
         {{end}}
         {{ .Content }}
     </article>
+    <section class="newsletter">
+        <div class="newsletter__form">
+            <h2 class="newsletter__title">Subscribe to our mailing list</h2>
+            <p>Want to be up-to-date with new content? Then subscribe.</p>
+            <div id="mc_embed_signup">
+                <form action="https://byrayray.us16.list-manage.com/subscribe/post?u=9ce01ecaaa1baf323e7ea5838&amp;id=b300bb9191"
+                    method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate"
+                    target="_blank" novalidate>
+                    <div id="mc_embed_signup_scroll">
+                        <input type="email" value="" name="EMAIL" class="newsletter__input-email" id="mce-EMAIL"
+                            placeholder="email address" required>
+                        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                        <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button--secondary">
+                        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9ce01ecaaa1baf323e7ea5838_b300bb9191"
+                                tabindex="-1" value=""></div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </section>
+
 </div>
 
 {{ if .Site.DisqusShortname -}}

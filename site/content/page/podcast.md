@@ -26,7 +26,6 @@ If you like my episodes please share them around, because positivity has to be s
 
 ### Episode 3 - Look to the future
 <time>2018-09-08</time>
-
 <div class="progressive-iframe" data-src="https://anchor.fm/growpositivemindset/embed/episodes/3---Look-to-the-future-e24lti"></div>
 
 ### Episode 4 - A powerful way to be better each day

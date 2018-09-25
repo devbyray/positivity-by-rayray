@@ -11,7 +11,11 @@ categories:
 
 
 <!--more-->
-# Podcast #1 - Be thankful for the things you have
+# Podcast #1
+
+## Be thankful for the things you have
+
+![](https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,q_74,w_1400/v1537686014/byrayray/Be_thankful_for_the_things_you_have_1.jpg)
 
 <div class="progressive-iframe" data-src="https://anchor.fm/growpositivemindset/embed/episodes/1---Be-thankful-for-the-things-you-have-e24lsp/a-a53b1m"></div>
 

@@ -1,9 +1,9 @@
 ---
-title: "Podcast #2- Embrace failure!"
+title: "Podcast #3- Look to the future"
 author: RayRay
 type: podcasts
-date: 2018-09-01T08:32:08+00:00
-url: /grow-positive-mindset-podcast-episode-2-embrace-failure/
+date: 2018-09-08T08:32:08+00:00
+url: /grow-positive-mindset-podcast-episode-3-look-to-the-future/
 draft: false
 categories:
   - Podcast
@@ -11,17 +11,16 @@ categories:
 
 
 <!--more-->
-# Podcast #2 - Embrace failure!
+# Podcast #3 - Look to the future
 
-![](https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,q_74,w_1400/v1537686116/byrayray/Embrace_failure_1.jpg)
+![](https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,q_74,w_1400/v1537686010/byrayray/Look_to_the_future_1.jpg)
 
-<div class="progressive-iframe" data-src="https://anchor.fm/growpositivemindset/embed/episodes/2---Embrace-failure-e24lt6"></div>
+<div class="progressive-iframe" data-src="https://anchor.fm/growpositivemindset/embed/episodes/3---Look-to-the-future-e24lti"></div>
 
-- Imagine a baby that’s growing and need to learn to walk
-- Don’t be scared to make mistake
-- Focus on the things you want
-- Failure is not bad
-- Failure is bad when it makes you stop trying
+- What happens in the past, formed you as a human
+- But it’s not gonna define where you will finish
+
+Where you start doesn't define where you finish
 
 
 ## Find the podcast on
