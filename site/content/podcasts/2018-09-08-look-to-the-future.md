@@ -5,6 +5,7 @@ type: podcasts
 date: 2018-09-08T08:32:08+00:00
 url: /grow-positive-mindset-podcast-episode-3-look-to-the-future/
 draft: false
+image: https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,q_74,w_1400/v1537686010/byrayray/Look_to_the_future_1.jpg
 categories:
   - Podcast
 ---

@@ -5,6 +5,7 @@ type: podcasts
 date: 2018-09-01T07:32:08+00:00
 url: /grow-positive-mindset-podcast-episode-1-be-thankful-for-the-things-you-have/
 draft: false
+image: https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,q_74,w_1400/v1537686014/byrayray/Be_thankful_for_the_things_you_have_1.jpg
 categories:
   - Podcast
 ---

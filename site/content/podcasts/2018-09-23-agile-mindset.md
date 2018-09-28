@@ -5,6 +5,7 @@ type: podcasts
 date: 2018-09-23T08:32:08+00:00
 url: /grow-positive-mindset-podcast-episode-5-how-to-get-an-agile-mindset/
 draft: false
+image: https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,h_1400,q_74,w_1400/v1537686021/byrayray/How_to_get_an_Agile_Mindset_1.jpg
 categories:
   - Podcast
 ---

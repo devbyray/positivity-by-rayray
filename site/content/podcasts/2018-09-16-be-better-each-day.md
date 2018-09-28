@@ -5,6 +5,7 @@ type: podcasts
 date: 2018-09-16T08:32:08+00:00
 url: /grow-positive-mindset-podcast-episode-4-a-powerful-way-to-be-better-each-day/
 draft: false
+image: https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,h_1400,q_74,w_1400/v1537686024/byrayray/A_simple_and_powerful_way_to_become_a_better_each_day_1.jpg
 categories:
   - Podcast
 ---

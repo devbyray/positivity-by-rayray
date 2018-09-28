@@ -5,6 +5,7 @@ type: podcasts
 date: 2018-09-01T08:32:08+00:00
 url: /grow-positive-mindset-podcast-episode-2-embrace-failure/
 draft: false
+image: https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,q_74,w_1400/v1537686116/byrayray/Embrace_failure_1.jpg
 categories:
   - Podcast
 ---
