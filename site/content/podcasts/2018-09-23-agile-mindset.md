@@ -39,6 +39,7 @@ So when having big goals it is important that we divide those goals into smaller
 - [**Google Podcast**](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xODI0NTI4L3BvZGNhc3QvcnNz)
 - [**Spotify**](https://open.spotify.com/show/6Y2fr3Uc03bkriRf4cC4LV)
 - [**Breaker**](https://www.breaker.audio/positivity-by-ray)
+- [**Castbox**](https://castbox.fm/channel/id1415080)
 - [**Overcast**](https://overcast.fm/itunes1425920642/positivity-by-ray)
 - [**Pocket Casts** ](https://pca.st/61JW)
 - [**RadioPublic**](https://play.radiopublic.com/positivity-by-ray-Wkdm1Y)

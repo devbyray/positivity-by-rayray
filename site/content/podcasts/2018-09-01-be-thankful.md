@@ -2,7 +2,7 @@
 title: "Podcast #1 - Be thankful for the things you have"
 author: RayRay
 type: podcasts
-date: 2018-09-01T08:32:08+00:00
+date: 2018-09-01T07:32:08+00:00
 url: /grow-positive-mindset-podcast-episode-1-be-thankful-for-the-things-you-have/
 draft: false
 categories:
@@ -43,13 +43,13 @@ Write down or record in audio and video where you tell where you are thankful fo
 Do this daily the next coming 7 days.
 
 ## Find the podcast on
-- [**Anchor** "_Grow your positive mindset podcast_"](https://anchor.fm/growpositivemindset)
-- [**Apple Podcast** "_Grow your positive mindset podcast_"](https://itunes.apple.com/us/podcast/positivity-by-ray/id1425920642)
-- [**Google Podcast** "_Grow your positive mindset podcast_"](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xODI0NTI4L3BvZGNhc3QvcnNz)
-- [**Spotify** "_Grow your positive mindset podcast_"](https://open.spotify.com/show/6Y2fr3Uc03bkriRf4cC4LV)
-- [**Breaker** "_Grow your positive mindset podcast_"](https://www.breaker.audio/positivity-by-ray)
-- [**Overcast** "_Grow your positive mindset podcast_"](https://overcast.fm/itunes1425920642/positivity-by-ray)
-- [**Pocket Casts**  "_Grow your positive mindset podcast_"](https://pca.st/61JW)
-- [**RadioPublic** "_Grow your positive mindset podcast_"](https://play.radiopublic.com/positivity-by-ray-Wkdm1Y)
-- [**Sticker** "_Grow your positive mindset podcast_"](https://www.stitcher.com/podcast/anchor-podcasts/positivity-by-ray)
-
+- [**Anchor**](https://anchor.fm/growpositivemindset)
+- [**Apple Podcast**](https://itunes.apple.com/us/podcast/positivity-by-ray/id1425920642)
+- [**Google Podcast**](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xODI0NTI4L3BvZGNhc3QvcnNz)
+- [**Spotify**](https://open.spotify.com/show/6Y2fr3Uc03bkriRf4cC4LV)
+- [**Breaker**](https://www.breaker.audio/positivity-by-ray)
+- [**Castbox**](https://castbox.fm/channel/id1415080)
+- [**Overcast**](https://overcast.fm/itunes1425920642/positivity-by-ray)
+- [**Pocket Casts** ](https://pca.st/61JW)
+- [**RadioPublic**](https://play.radiopublic.com/positivity-by-ray-Wkdm1Y)
+- [**Sticher**](https://www.stitcher.com/podcast/anchor-podcasts/positivity-by-ray)
