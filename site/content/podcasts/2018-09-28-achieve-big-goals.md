@@ -5,7 +5,7 @@ type: podcasts
 date: 2018-09-28T08:32:08+00:00
 url: /grow-positive-mindset-podcast-episode-6-how-to-achieve-big-goals/
 draft: false
-image: https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,h_1400,q_74,w_1400/v1537686021/byrayray/How_to_get_an_Agile_Mindset_1.jpg
+image: https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,h_1400,q_74,w_1400/v1538164339/byrayray/How_to_achieve_big_goals.jpg
 categories:
   - Podcast
 ---
@@ -16,7 +16,7 @@ categories:
 
 ## How to achieve big goals
 
-![](https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,h_1400,q_74,w_1400/v1537686021/byrayray/How_to_get_an_Agile_Mindset_1.jpg)
+![](https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,h_1400,q_74,w_1400/v1538164339/byrayray/How_to_achieve_big_goals.jpg)
 
 <div class="progressive-iframe" data-src="https://anchor.fm/growpositivemindset/embed/episodes/6---How-to-achieve-big-goals-e2ac6q"></div>
 
