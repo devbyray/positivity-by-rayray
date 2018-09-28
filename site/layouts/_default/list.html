@@ -1,11 +1,8 @@
 {{ define "main" -}}
-<div class="single-post">
     <article class="single-post__content">
         <h1 class="single-post__title">{{ .Title }}</h1>
-        {{ partial "podcasts.html" . }}
-
     </article>
-</div>
+{{ partial "podcasts.html" . }}
 
 
 {{- end }}

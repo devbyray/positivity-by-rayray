@@ -4,7 +4,7 @@
         <picture class="podcast__picture-container">
             <img class="podcast__image" src="{{ .Params.image }}" alt="">
         </picture>
-        <!-- <span class="podcast-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span> -->
+        <span class="podcast-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
         <section class="podcast__excerpt">
             <h2 class="podcast__title">
                 <a href="{{ .Permalink }}">{{ .Title }}</a>
