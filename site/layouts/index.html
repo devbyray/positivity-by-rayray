@@ -5,6 +5,7 @@
 <section class="newsletter">
   <div class="newsletter__form">
     <h2 class="newsletter__title">Subscribe to our mailing list</h2>
+    <p>Want to be up-to-date with new content? Then subscribe.</p>
     <!-- Begin MailChimp Signup Form -->
     <!-- <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css"> -->
     <div id="mc_embed_signup">
@@ -12,7 +13,8 @@
         method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank"
         novalidate>
         <div id="mc_embed_signup_scroll">
-          <input type="email" value="" name="EMAIL" class="newsletter__input-email" id="mce-EMAIL" placeholder="email address" required>
+          <input type="email" value="" name="EMAIL" class="newsletter__input-email" id="mce-EMAIL" placeholder="email address"
+            required>
           <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
           <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button--secondary">
           <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_9ce01ecaaa1baf323e7ea5838_b300bb9191"
@@ -46,13 +48,13 @@
       <h2>Weekly Podcast</h2>
       <p>In order to help you even better I publish a weekly Podcast where I talk about different topics and ways on
         how to develop a positive mindset.</p>
-        <div class="service__button-wrapper">
-            <a class="button" href="http://instagram.com/positivitybyrayray" target="_blank"><i class="fas fa-podcast"></i></a>
-            <a class="button" href="http://instagram.com/positivitybyrayray" target="_blank"><i class="fab fa-spotify"></i></a>
-            <a class="button" href="http://instagram.com/positivitybyrayray" target="_blank"><i class="fab fa-google"></i></a>
-            <a class="button" href="podcast/" target="_blank">more...</a>
-        </div>
+      <div class="service__button-wrapper">
+        <a class="button" href="http://instagram.com/positivitybyrayray" target="_blank"><i class="fas fa-podcast"></i></a>
+        <a class="button" href="http://instagram.com/positivitybyrayray" target="_blank"><i class="fab fa-spotify"></i></a>
+        <a class="button" href="http://instagram.com/positivitybyrayray" target="_blank"><i class="fab fa-google"></i></a>
+        <a class="button" href="podcasts/">more...</a>
       </div>
+    </div>
     <div class="service__item">
       <div class="service__icon-wrapper">
         <i class="service__icon fas fa-video"></i>
@@ -60,9 +62,11 @@
       <h2>Weekly Instagram TV</h2>
       <p>Every week I post a short video about a tips that you can use directly in your daily life.</p>
       <div class="service__button-wrapper">
-          <a class="button" href="http://instagram.com/positivitybyrayray" target="_blank">@positivitybyrayray</a>
+        <a class="button" href="http://instagram.com/positivitybyrayray" target="_blank">@positivitybyrayray</a>
       </div>
     </div>
   </div>
 </section>
-{{ partial "posts.html" . }} {{- end }}
+{{ partial "posts.html" . }}
+
+{{- end }}
