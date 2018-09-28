@@ -19,8 +19,8 @@ googleAnalytics = "UA-23405543-8"
 
   [[menu.main]]
     identifier = "Grow your positive mindset Podcast"
-    name = "Podcast"
-    url = "/podcast/"
+    name = "Podcasts"
+    url = "/podcasts/"
     weight = -100
 
   [[menu.right]]
