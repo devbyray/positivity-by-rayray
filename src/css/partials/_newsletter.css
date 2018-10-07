@@ -3,6 +3,10 @@
     display: grid;
     grid-template-columns:  repeat(6, 1fr);
 }
+.newsletter--landing {
+    background: none;
+    grid-template-columns:  auto;
+}
 .newsletter__form {
     grid-column: 1/7;
     padding: 2rem;

@@ -1,0 +1,10 @@
+{{ define "main" -}}
+<div class="single-post single-post--landing" style="background-image: url('{{ .Params.background }}')">
+    <article class="single-post__content">
+        <h1 class="single-post__title">{{ .Title }}</h1>
+        {{ .Content }}
+    </article>
+
+</div>
+
+{{- end }}

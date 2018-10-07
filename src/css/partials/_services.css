@@ -8,14 +8,14 @@
     margin-bottom: 2rem;
     padding-bottom: 2rem;
     border-bottom: 1px solid #333;
-
+    text-align: center
 }
 .service__icon-wrapper {
     text-align: center;
     margin: 0 0 2rem 0;
 }
 .service__icon {
-    font-size: 4rem;
+    font-size: 3.5rem;
     text-align: center;
     border-radius: 100%;
     background: #f5d26b;
@@ -57,6 +57,6 @@
         margin-bottom: 0;
         padding-bottom: 0;
         border-bottom: 0;
-        grid-template-rows: 170px 100px 1fr auto;
+        grid-template-rows: 170px 70px 1fr auto;
     }
 }

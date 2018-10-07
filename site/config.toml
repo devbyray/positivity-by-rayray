@@ -23,10 +23,16 @@ googleAnalytics = "UA-23405543-8"
     url = "/podcasts/"
     weight = -100
 
+  [[menu.main]]
+    identifier = "Community"
+    name = "Community"
+    url = "community/"
+    weight = -90
+
   [[menu.right]]
     identifier = "Positivity by RayRay products"
     name = "Products"
-    url = "https://www.instagram.com/positivitybyrayray/"
+    url = "https://www.redbubble.com/people/byrayray/shop?asc=u"
     weight = -100
 
   [[menu.right]]
