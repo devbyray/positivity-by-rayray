@@ -1,13 +1,13 @@
 .single-post {
     background: #fff;
-    margin-bottom: -4rem;
+    margin-bottom: -2rem;
     min-height: 100vh;
 }
 .single-post h1 {
     font-size: 2rem;
 }
 .single-post a {
-    color: #f5d26b;
+    color: #ffbe00;
     transition: .5s ease-in-out;
 }
 .single-post a:hover {
@@ -103,4 +103,18 @@
   max-width: 200px;
   max-height: 400px;
   object-fit: cover;
+}
+.podcasts__nav {
+    margin-bottom: 2rem;
+}
+.podcast__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+.podcast__item:not(:last-child):after {
+    content: "|";
+    padding: 0 .3rem;
 }

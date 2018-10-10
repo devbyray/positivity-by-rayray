@@ -26,7 +26,7 @@ googleAnalytics = "UA-23405543-8"
   [[menu.main]]
     identifier = "Community"
     name = "Community"
-    url = "community/"
+    url = "/community/"
     weight = -90
 
   [[menu.right]]
@@ -41,3 +41,65 @@ googleAnalytics = "UA-23405543-8"
     pre = "<i class='fa fa-instagram'></i>"
     url = "https://www.instagram.com/positivitybyrayray/"
     weight = -110
+
+# Podcast menu
+
+  [[menu.podcasts]]
+    identifier = "Anchor"
+    name = "Anchor"
+    url = "https://anchor.fm/growpositivemindset"
+    weight = -100
+
+  [[menu.podcasts]]
+    identifier = "Apple Podcast"
+    name = "Apple Podcast"
+    url = "https://itunes.apple.com/us/podcast/positivity-by-ray/id1425920642"
+    weight = -110
+
+  [[menu.podcasts]]
+    identifier = "Google Podcast"
+    name = "Google Podcast"
+    url = "https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xODI0NTI4L3BvZGNhc3QvcnNz"
+    weight = -120
+
+  [[menu.podcasts]]
+    identifier = "Spotify"
+    name = "Spotify"
+    url = "https://open.spotify.com/show/6Y2fr3Uc03bkriRf4cC4LV"
+    weight = -130
+
+  [[menu.podcasts]]
+    identifier = "Breaker"
+    name = "Breaker"
+    url = "https://www.breaker.audio/positivity-by-ray"
+    weight = -140
+
+  [[menu.podcasts]]
+    identifier = "Castbox"
+    name = "Castbox"
+    url = "https://castbox.fm/channel/id1415080"
+    weight = -150
+
+   [[menu.podcasts]]
+    identifier = "Overcast"
+    name = "Overcast"
+    url = "https://overcast.fm/itunes1425920642/positivity-by-ray"
+    weight = -160
+
+  [[menu.podcasts]]
+    identifier = "Pocket Casts"
+    name = "Pocket Casts"
+    url = "https://pca.st/61JW"
+    weight = -170
+
+  [[menu.podcasts]]
+    identifier = "RadioPublic"
+    name = "RadioPublic"
+    url = "https://play.radiopublic.com/positivity-by-ray-Wkdm1Y"
+    weight = -180
+
+  [[menu.podcasts]]
+    identifier = "Sticher"
+    name = "Sticher"
+    url = "https://www.stitcher.com/podcast/anchor-podcasts/positivity-by-ray"
+    weight = -190

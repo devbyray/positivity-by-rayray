@@ -1,0 +1,9 @@
+.promotion {
+    background: #ffbe00;
+    color: #fff;
+    padding: 2rem 2rem 1rem 2rem;
+    text-align: center
+}
+.promotion a {
+    color: #fff;
+}

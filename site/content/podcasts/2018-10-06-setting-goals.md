@@ -1,5 +1,7 @@
 ---
-title: "Podcast #7 - Split your goals up and make them very specific"
+title: "Podcast Episode 7 - Split your goals up and make them very specific"
+heading: "Episode 7"
+subtitle: "Split your goals up and make them very specific"
 author: RayRay
 type: podcasts
 date: 2018-10-06T08:32:08+00:00
@@ -9,14 +11,6 @@ image: https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,h_1400,q_7
 categories:
   - Podcast
 ---
-
-
-<!--more-->
-# Podcast #7
-
-## Split your goals up and make them very specific
-
-![](https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,h_1400,q_74,w_1400/v1538164339/byrayray/Split_your_goals_up_and_make_them_very_specific.jpg)
 
 <div class="progressive-iframe" data-src="https://anchor.fm/growpositivemindset/embed/episodes/7---Split-your-goals-up-and-make-them-very-specific-e2bm0k/a-a5ms0q"></div>
 
@@ -52,15 +46,3 @@ I find [Trello](https://trello.com), for example, a very awesome tool to use, wh
 If you have any questions on how to break your goals down into smaller tasks? Please DM me on Instagram [@positivitybyrayray](https://instagram.com/positivitybyrayray)
 
 Check out [my Etsy shop](https://www.etsy.com/shop/PositivityByRayRay) to get positive quotes as printable and wallpapers!
-
-### Find the podcast on
-- [**Anchor**](https://anchor.fm/growpositivemindset)
-- [**Apple Podcast**](https://itunes.apple.com/us/podcast/positivity-by-ray/id1425920642)
-- [**Google Podcast**](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xODI0NTI4L3BvZGNhc3QvcnNz)
-- [**Spotify**](https://open.spotify.com/show/6Y2fr3Uc03bkriRf4cC4LV)
-- [**Breaker**](https://www.breaker.audio/positivity-by-ray)
-- [**Castbox**](https://castbox.fm/channel/id1415080)
-- [**Overcast**](https://overcast.fm/itunes1425920642/positivity-by-ray)
-- [**Pocket Casts**](https://pca.st/61JW)
-- [**RadioPublic**](https://play.radiopublic.com/positivity-by-ray-Wkdm1Y)
-- [**Sticher**](https://www.stitcher.com/podcast/anchor-podcasts/positivity-by-ray)

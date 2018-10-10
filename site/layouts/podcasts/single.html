@@ -1,0 +1,34 @@
+{{ define "main" -}}
+<div class="single-post">
+    <article class="single-post__content">
+        <h1>{{.Params.heading}}</h1>
+        <h2>{{.Params.subtitle}}</h2>
+        {{ if isset .Params "image" }}
+            <img class="podcast__image" src="{{ .Params.image }}" alt="">
+        {{ end }}
+        {{ if not .Date.IsZero }}
+        <p><em><span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span></em></p>
+        {{end}}
+        <nav class="podcasts__nav">
+            <ul class="podcast__list">
+                {{ range .Site.Menus.podcasts -}}
+                  <li class="podcast__item">
+                    <a class="podcast__link" href="{{.URL}}"> {{ .Name }} </a>
+                  </li>
+                {{- end }}
+              </ul>
+          </nav>
+        {{ .Content }}
+        <aside class="promotion">
+            <h3>Grow your positive mindset community</h3>
+            <p>Do you want to join a community where we support and help eachother to grow a positive mindset?</p>
+            <p><a href="/community">Join today for free!</a></p>
+        </aside>
+    </article>
+</div>
+
+{{ if .Site.DisqusShortname -}}
+<h2>Comments</h2>
+{{ template "_internal/disqus.html" . }}
+{{- end }}
+{{- end }}

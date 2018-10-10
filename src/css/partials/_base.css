@@ -10,7 +10,7 @@ body {
   width: 100vw;
   min-height: 100vh;
   display: grid;
-  grid-template-rows: auto 1fr 32px;
+  grid-template-rows: auto 1fr auto;
   grid-template-columns: 1fr;
 }
 .content__container {
@@ -32,13 +32,13 @@ iframe {
 
 button, .button {
   display: inline-block;
-  background: #f5d26b;
+  background: #ffbe00;
   color: #fff;
   padding: .5rem 1rem;
   transition: .3s ease-in-out;
 }
 button, .button:hover, .button--secondary:hover {
-  color: #f5d26b;
+  color: #ffbe00;
   background: #333;
 }
 
@@ -52,4 +52,5 @@ button, .button:hover, .button--secondary:hover {
 
 .progressive-iframe {
   min-height: 1px;
+  margin-bottom: 2rem;
 }
