@@ -28,6 +28,8 @@ So they write down a couple of things they need to continue doing and they write
 
 ## So how can you do it yourself?
 
+![](https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,h_954,q_70,w_1400/v1539453272/byrayray/retrospective.jpg)
+
 Grab a piece of papers and a few sticky notes. On the blank paper, you draw a line in the middle of the paper.
 
 On the left you write a smiley, here you can out the things that wend good and on the right side you draw an arrow up, there you can put the things that need improvement.
