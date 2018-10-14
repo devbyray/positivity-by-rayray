@@ -7,7 +7,6 @@
             <img class="podcast__image" src="{{ .Params.image }}" alt="">
         {{ end }}
         {{ if not .Date.IsZero }}
-        <p><em><span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span></em></p>
         {{end}}
         <nav class="podcasts__nav">
             <ul class="podcast__list">
@@ -18,11 +17,13 @@
                 {{- end }}
               </ul>
           </nav>
-        {{ .Content }}
+          <p><em><span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span></em></p>
+          {{ .Content }}
         <aside class="promotion">
+            <img class="promotion__image" src="https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,h_933,q_70,w_1400/v1538942220/byrayray/community.jpg" alt="">
             <h3>Grow your positive mindset community</h3>
             <p>Do you want to join a community where we support and help eachother to grow a positive mindset?</p>
-            <p><a href="/community">Join today for free!</a></p>
+            <p><a href="https://www.facebook.com/groups/growyourpositivemindset/" target="_blank">Join today for free!</a></p>
         </aside>
     </article>
 </div>

@@ -1,8 +1,16 @@
 .promotion {
     background: #ffbe00;
     color: #fff;
-    padding: 2rem 2rem 1rem 2rem;
+    padding: 0 0 1rem 0;
     text-align: center
+}
+.promotion .promotion__image {
+    margin: 0 0 2rem 0;
+    max-width: 100%;
+}
+.promotion p,
+.promotion h3 {
+    padding: 0 2rem;
 }
 .promotion a {
     color: #fff;

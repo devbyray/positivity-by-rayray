@@ -1,0 +1,8 @@
+.about {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.about__content {
+    grid-column: 2;
+    padding: 2rem 0;
+}

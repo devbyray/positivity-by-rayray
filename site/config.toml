@@ -30,17 +30,25 @@ googleAnalytics = "UA-23405543-8"
     weight = -90
 
   [[menu.right]]
+    identifier = "Facebook group"
+    name = "Facebook group"
+    url = "https://www.facebook.com/groups/growyourpositivemindset/"
+    weight = -100
+
+  [[menu.right]]
     identifier = "Positivity by RayRay products"
     name = "Products"
     url = "https://www.redbubble.com/people/byrayray/shop?asc=u"
-    weight = -100
+    weight = -110
 
   [[menu.right]]
     identifier = "Positivity By RayRay on Instagram"
     name = "Instagram"
     pre = "<i class='fa fa-instagram'></i>"
     url = "https://www.instagram.com/positivitybyrayray/"
-    weight = -110
+    weight = -120
+
+
 
 # Podcast menu
 
