@@ -19,6 +19,11 @@
           </nav>
           <p><em><span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span></em></p>
           {{ .Content }}
+
+          <script>
+                fbq('track', 'ViewContent');
+            </script>
+
         <aside class="promotion">
             <img class="promotion__image" src="https://res.cloudinary.com/raymons/image/upload/c_scale,f_auto,h_933,q_70,w_1400/v1538942220/byrayray/community.jpg" alt="">
             <h3>Grow your positive mindset community</h3>
@@ -33,7 +38,4 @@
 {{ template "_internal/disqus.html" . }}
 {{- end }}
 {{- end }}
-<script>
-    fbq('track', 'ViewContent');
-</script>
 
