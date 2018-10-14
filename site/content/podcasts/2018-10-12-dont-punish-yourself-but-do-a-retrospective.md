@@ -1,5 +1,5 @@
 ---
-title: "Podcast Episode 8 - Split your goals up and make them very specific"
+title: "Podcast Episode 8 - Don't punish yourself but do a retrospective"
 heading: "Episode 8"
 subtitle: "Don't punish yourself but do a retrospective"
 author: RayRay
